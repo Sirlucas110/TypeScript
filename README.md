@@ -1,3 +1,3 @@
 # TypeScript
 
-<h1> Atualmente, estou estudando TypeScript para aprimorar minhas habilidades em desenvolvimento web e backend. </h1>
+<h2> Estudo de TypeScript para aprimorar minhas habilidades em desenvolvimento web e backend. </h2>
